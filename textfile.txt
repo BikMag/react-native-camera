@@ -1,0 +1,5 @@
+[[[]]]
+Some information
+This line will cause conflicts!
+Second line
+:)
