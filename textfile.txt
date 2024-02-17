@@ -1,5 +1,5 @@
 [[[]]]
 Some information
-This line will cause conflicts! Be careful!
+This line will cause conflicts! I don't joke!
 Second line
 :)
